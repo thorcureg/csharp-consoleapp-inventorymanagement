@@ -1,30 +1,18 @@
-Inventory Management Console App
+📦 Inventory Management Console App
+📝 Description
+A simple console-based Inventory Management System that allows users to efficiently manage product inventory. This application provides essential functionalities such as:
 
-Description
+✅ Add Products (with automated product ID assignment)
+✅ Remove Products
+✅ Update Product Quantity
+✅ View Product List
+✅ Calculate Total Inventory Value
 
-This is a simple console-based Inventory Management System that allows users to:
-
-Add Products (with automated product ID assignment)
-
-Remove Products
-
-Update Product Quantity
-
-View the List of Products
-
-Calculate Total Inventory Value
-
-How to Use
-
+🚀 How to Use
 Run the application.
+Follow the on-screen menu to select an option.
+Enter valid inputs when prompted.
+This console app ensures proper input validation, preventing incorrect data entry.
 
-Follow the on-screen menu options to manage your inventory.
-
-Enter valid inputs as prompted.
-
-App Recording
-
-A ZIP file containing a 2-minute video demonstration of the console application is located in the 'App Recording' folder.
-
-
-
+🎥 App Recording
+A ZIP file containing a 2-minute video demonstration of the console application is available in the App Recording folder.
