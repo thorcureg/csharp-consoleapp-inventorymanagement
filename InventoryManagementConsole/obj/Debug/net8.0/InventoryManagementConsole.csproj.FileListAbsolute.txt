@@ -1,0 +1,14 @@
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\bin\Debug\net8.0\InventoryManagementConsole.exe
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\bin\Debug\net8.0\InventoryManagementConsole.deps.json
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\bin\Debug\net8.0\InventoryManagementConsole.runtimeconfig.json
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\bin\Debug\net8.0\InventoryManagementConsole.dll
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\bin\Debug\net8.0\InventoryManagementConsole.pdb
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.AssemblyInfoInputs.cache
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.AssemblyInfo.cs
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.csproj.CoreCompileInputs.cache
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.dll
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\refint\InventoryManagementConsole.dll
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.pdb
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\InventoryManagementConsole.genruntimeconfig.cache
+C:\Users\lovel\Desktop\playground\inventorymanagement\InventoryManagementConsole\InventoryManagementConsole\obj\Debug\net8.0\ref\InventoryManagementConsole.dll
